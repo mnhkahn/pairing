@@ -1,0 +1,2 @@
+# pairing
+ Cantor pairing function 
