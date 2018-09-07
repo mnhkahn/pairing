@@ -4,6 +4,8 @@ pairing is package can encode and decode integers, decoded integers can keep sor
 It base on cantor pairing function.
 Wiki: https://en.wikipedia.org/wiki/Pairing_function#Cantor_pairing_function.
 
+godoc: https://godoc.org/github.com/mnhkahn/pairing.
+
 Chinese detail: http://blog.cyeam.com//golang/2017/02/07/go-optimize-pair?utm_source=peanut.
 
 Benchmark test:
